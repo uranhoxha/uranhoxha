@@ -1,5 +1,5 @@
 # 💫 About Me:
-A really awesome Frontend Developer with a proven track record of bringing web designs<br>to life for local businesses and during an internship at KosovaOutsource LLC. Specializes in ReactJS<br>and possesses a keen eye for UX Design, ensuring responsive and user-friendly interfaces.<br>Demonstrates strong problem-solving and design skills, enhancing user satisfaction and<br>engagement.
+A really awesome Frontend Developer.
 
 
 ## 🌐 Socials:
