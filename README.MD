@@ -18,7 +18,7 @@
       alt="LinkedIn" 
       src="./images/linkedin.svg" 
       target="_new" 
-      width="40"
+      width="30"
     />
   </a>
   
@@ -27,7 +27,7 @@
       alt="Portfolio" 
       src="./images/portfolio.png" 
       target="_new" 
-      width="40"
+      width="30"
     />
   </a>
 </p>
