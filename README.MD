@@ -22,7 +22,7 @@
     />
   </a>
   
-  <a href="https://uranhoxha.netlify.app/">
+  <a href="https://uranhoxha98.netlify.app/">
     <img 
       alt="Portfolio" 
       src="./images/portfolio.png" 
